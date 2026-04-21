@@ -28,16 +28,8 @@ with open("file1.txt","r") as f1:
 
 ```
 ### OUTPUT:
-program execution:
-![alt text](image.png)
 
-copied file:
+<img width="943" height="163" alt="image" src="https://github.com/user-attachments/assets/9a7511ac-5b5b-4906-8778-b63280f94a40" />
 
-
-![alt text](image-1.png)
-
-text file:
-
-![alt text](image-2.png)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
